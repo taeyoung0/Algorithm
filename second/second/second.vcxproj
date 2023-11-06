@@ -128,8 +128,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="add.c" />
+    <ClCompile Include="arr.c" />
     <ClCompile Include="FileName.c" />
     <ClCompile Include="FileName2.c" />
+    <ClCompile Include="pointer.c" />
     <ClCompile Include="Test.c" />
     <ClCompile Include="Test2.c" />
   </ItemGroup>
