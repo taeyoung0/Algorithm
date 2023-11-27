@@ -1,4 +1,4 @@
-#include <stdio.h>
+//#include <stdio.h>
 
 //void main() {
 	//int A[10], MAX, i = 0;

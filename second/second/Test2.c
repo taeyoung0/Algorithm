@@ -1,7 +1,7 @@
-#include <stdio.h>
-#include <limits.h>
-void main()
-{
+//#include <stdio.h>
+//#include <limits.h>
+//void main()
+//{
 //	//int A = 1;
 //	//int sum = 0;
 //	//int B = 0;
@@ -150,4 +150,4 @@ void main()
 	//------------------------------
 
 	
-}
+//}
