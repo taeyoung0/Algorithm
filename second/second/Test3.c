@@ -1,10 +1,10 @@
-#include<stdio.h>
-#include <time.h>
+//#include<stdio.h>
+//#include <time.h>
 
-#define _CRT_SECURE_NO_WARNINGS
+//#define _CRT_SECURE_NO_WARNINGS
 
-main()
-{
+//main()
+//{
 	// 10개의 숫자를 입력받아 배열에 저장한 후 오름차순으로 정렬
 	/*int a[10];
 	int key = 0;
@@ -327,12 +327,12 @@ main()
 		printf("\n");
 	}*/
 	
-	int val, i;
+	/*int val, i;
 	srand(time(NULL));
 	for (i = 0; i < 10; i++)
 	{
 		val = rand();
 		printf("%d\n", val);
 	}
-
-}
+	*/
+//}
