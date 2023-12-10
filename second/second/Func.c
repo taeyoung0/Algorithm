@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 #define _CRT_SECURE_NO_WARNINGS
 
 float py(int n)
@@ -70,7 +70,7 @@ void hop3(int b[][2])
 		}
 	}
 }
-
+*/
 //main()
 //{
 	/*int n;

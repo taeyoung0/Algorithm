@@ -42,5 +42,8 @@
     <ClCompile Include="Func.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Test4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
